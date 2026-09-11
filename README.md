@@ -15,3 +15,7 @@ fikk testa ssh og lastet ned ufw med ssh white-lista
 må fikse en vei å koble til hjemmenifra med ssh
 
 fredag 11.sep.2026
+wifi problemer.
+jeg fiksa det med å teste 100 metoder. sikkert en driver oppdatering, og testa med mobilnett. noe fiksa det.
+nvm jeg fiksa det ikke
+nvm det funker???
