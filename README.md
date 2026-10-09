@@ -53,3 +53,18 @@ Once connected, leave the Ethernet cable between the RT-AC51U and your PC. Your 
 
 hadde noen problemer med å sette opp med guiden spør videre
 det endte opp å være for mye styr med å bruke ruter som antenne så vi bruker bare kabel med fungerende nett for framtida
+
+fredag 25.sep.2026
+endelig har jeg en løsning.
+servern MÅ ha eathernett kabel til å bruke wifi med null problemer.
+
+## steg to: instellasjon av server softwere
+
+fredag 25.sep.2026
+det som er smart å gjøre når man skal ha en server til nesten alt sammen er at den er flyttbar.
+vi skal ha serverne på en minne pinne sånn at lagringen er sikker og flyttbar itillfelle et problem med masjinern oppstår.
+
+fredag 9.okt.2026
+innstalerte windows på serveren og skal fikse en dual boot med windows og linux
+jeg reduserte disken fra windowsen for å bruke på linux (100GB)
+alt er klart til å laste ned linux på pcen jeg må bare ha en bra verson av linux og fikse dual boot av den
